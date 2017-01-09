@@ -9,9 +9,7 @@ Well Sorted Documentation included in "documentation" (folder).
 SOURCE AND CREADITS:
 ====================
 
-Photos:
 
-    All 'images' used on the demo site is for demonstration purposes only and are not included in the main download file.
 
 Fonts Used:
 
