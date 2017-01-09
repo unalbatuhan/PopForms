@@ -1,5 +1,3 @@
-PopForms is a Material Design Modal Forms Set including login form, sign up form, forgot password form, subscribe from and contact form. Anyone can easily update/edit this plugin to follow our Well Sorted Documentation.
-
 
 ===============================================================
 Well Sorted Documentation included in "documentation" (folder).
